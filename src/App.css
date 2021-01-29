@@ -1,0 +1,38 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(240, 67%, 94%);
+  height: 900px;
+  font-family: 'Montserrat', sans-serif;
+}
+header {
+  display: inline-flex;
+  align-items: center;
+  margin: 0 auto;
+}
+button{
+  background-color: hsl(240, 45%, 58%);
+  color: white;
+  border-radius: 12.5px;
+  padding: 10px 20px;
+  border: none;
+  font-size: 18px;
+  font-weight: 600;
+}
+  
+
+input {
+  border: none;
+  border-bottom: 1px black solid;
+  background-color: inherit;
+  height: 30px;
+  padding-left: 20px;
+  font-size: 22px;
+}
+
+input:focus{
+  outline: none;
+}
+
