@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-WeatherApp/static/css/main.bd4e87e5.chunk.css",
+    "main.js": "/React-WeatherApp/static/js/main.5714cc93.chunk.js",
+    "main.js.map": "/React-WeatherApp/static/js/main.5714cc93.chunk.js.map",
+    "runtime-main.js": "/React-WeatherApp/static/js/runtime-main.4495ef9b.js",
+    "runtime-main.js.map": "/React-WeatherApp/static/js/runtime-main.4495ef9b.js.map",
+    "static/js/2.869a970a.chunk.js": "/React-WeatherApp/static/js/2.869a970a.chunk.js",
+    "static/js/2.869a970a.chunk.js.map": "/React-WeatherApp/static/js/2.869a970a.chunk.js.map",
+    "static/js/3.9c76801f.chunk.js": "/React-WeatherApp/static/js/3.9c76801f.chunk.js",
+    "static/js/3.9c76801f.chunk.js.map": "/React-WeatherApp/static/js/3.9c76801f.chunk.js.map",
+    "index.html": "/React-WeatherApp/index.html",
+    "static/css/main.bd4e87e5.chunk.css.map": "/React-WeatherApp/static/css/main.bd4e87e5.chunk.css.map",
+    "static/js/2.869a970a.chunk.js.LICENSE.txt": "/React-WeatherApp/static/js/2.869a970a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4495ef9b.js",
+    "static/js/2.869a970a.chunk.js",
+    "static/css/main.bd4e87e5.chunk.css",
+    "static/js/main.5714cc93.chunk.js"
+  ]
+}
