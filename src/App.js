@@ -2,7 +2,7 @@ import './App.css';
 import React, {useState, useEffect} from "react";
 import WeatherContainer from "./WeatherContainer";
 
-const APIkey = "b758c5f5274ef7a9580760f893e2b1cf";
+const APIkey = "";
 
 function App() {
   const [place, setPlace] = useState("")
